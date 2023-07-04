@@ -15,7 +15,6 @@
 
 > _The goal of these modules is to introduce us to Object-Oriented Programming. This will be the starting point of our C++ journey._
 
-For more detailed information: [**subject**](https://github.com/LineGM/ft_printf/blob/main/ft_printf_en.pdf).
 
 |  Nº | Project | Description | Topics | Status |
 |-----|---------|-------------|--------|--------|
