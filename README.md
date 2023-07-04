@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/LineGM/cpp_modules?color=critical"/>
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/LineGM/cpp_modules?color=yellow"/>
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LineGM/cpp_modules?color=blue"/>
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LineGM/cpp_modules?color=green"/>
