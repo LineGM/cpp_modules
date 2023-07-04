@@ -16,8 +16,8 @@
 > _The goal of these modules is to introduce us to Object-Oriented Programming. This will be the starting point of our C++ journey._
 
 
-|  Nº | Project | Description | Topics | Status |
-|-----|---------|-------------|--------|--------|
+|  Nº | Project | Description | Topics |
+|-----|---------|-------------|--------|
 |  1  | [CPP_00](https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_00) | Getting familiar with C++       | Classes, member fucntions, and some basic stuff.. |
 |  2  | [CPP_01](https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_01) | BraiiiiiiinnnzzzZ | New, pointers to members, references, switch statement	 |
 |  3  | [CPP_02](https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_02) | My First Orthodox Class      | ad-hoc polymorphism, operator overloading and Orthodox Cononical class form |
